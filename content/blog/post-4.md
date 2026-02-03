@@ -7,3 +7,5 @@ tags = ['red']
 
 # 7 keajaiban dunia nomor 7 si agoy
 lorem ipsum dolor sit amet
+
+{{< youtube 9cB2YB1G8mw >}}
